@@ -1,0 +1,1 @@
+npx json-server api.json -p 3333 -w
